@@ -1,12 +1,3 @@
-# Slim Framework 3 Skeleton Application
+# Github OAuth Example using PHP
 
-To run the application in development, you can run these commands
-
-    cd [my-app-name]
-    php composer.phar start
-
-Run this command in the application directory to run the test suite
-
-    php composer.phar test
-
-That's it! Now go build something cool.
+This [Slim 3 demo application](https://github.com/slimphp/Slim-Skeleton) demonstrates the Authorization flow for [GitHub OAuth applications](https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/). It shows a login button and shows your name after authorizing.
